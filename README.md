@@ -9,9 +9,9 @@
 
 - 🔭 I’m currently working on **Winey**
 
-- 🌱 I’m currently learning **Flutter, and Swift.**
-
 - 🔭 I’m currently working on **Ask Me**
+
+- 🌱 I’m currently learning **Flutter, and Swift.**
 
 - 💬 Ask me about **Flutter, and C#.**
 
