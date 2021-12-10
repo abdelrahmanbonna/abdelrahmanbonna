@@ -7,11 +7,11 @@
 
 <p align="left"> <a href="https://twitter.com/abkbonna" target="blank"><img src="https://img.shields.io/twitter/follow/abkbonna?logo=twitter&style=for-the-badge" alt="abkbonna" /></a> </p>
 
-- 🔭 I’m currently working on **Winey**
+- 🔭 I’m currently working on **Etisalat Business**
 
-- 🌱 I’m currently learning **Angular, Flutter and C#**
+- 🌱 I’m currently learning **Flutter**
 
-- 💬 Ask me about **Angular, Flutter and C#**
+- 💬 Ask me about **Flutter**
 
 - 📫 How to reach me **abdelrahmanbonna@outlook.com**
 
